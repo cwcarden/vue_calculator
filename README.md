@@ -1,4 +1,4 @@
-# calculator
+# Ugly Vue Calculator
 
 ## Project setup
 ```
