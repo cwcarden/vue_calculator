@@ -1,5 +1,5 @@
 # Ugly Vue Calculator
-
+![image](https://github.com/equineranch/vue_calculator/blob/master/src/assets/calc.png)
 ## Project setup
 ```
 npm install
